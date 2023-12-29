@@ -29,7 +29,7 @@ section{
     color: #333;
     padding: 1rem;
     margin: 2rem 0;
-    background: rgba(255, 51, 153,.05);
+    background: rgba(0,0,0,.1);
 }
 
 .heading span{
@@ -243,8 +243,8 @@ header .fa-bars{
     top: 1rem; left: 1rem;
     padding: .7rem 1rem;
     font-size: 2rem;
-    color: #333;
-    background: rgba(255, 51, 153,.05);
+    color: #ffffff;
+    background: #333;
     z-index: 1;
     border-radius: .5rem;
 }
